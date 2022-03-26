@@ -1,7 +1,8 @@
-## Olá, eu sou a Tharsila ✌
+## Hey there! I’m Tharsila Borges ✌
 
 - 🎯 I'm currently learning Javascript/React.
 
+I am a Telecommunications Engineer graduated from "Estácio” in 2016. At the present time, I'm a student in Full Stack Web Development at NewTab Academy.
 
 <div>
   <a href="https://github.com/tharsila">
