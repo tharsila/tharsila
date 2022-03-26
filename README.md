@@ -1,7 +1,7 @@
 ## Olá, eu sou a Tharsila ✌
 
-- 🔭 Atualmente estou me especializando na stack front-end.
-- 💻 Estudando Javascript/React.
+- 🎯 I'm currently learning Javascript/React.
+
 
 <div>
   <a href="https://github.com/tharsila">
@@ -28,7 +28,7 @@
   <a href ="https://www.linkedin.com/in/tharsila-borges-ab668276/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  ## Visitas no perfil
+  ## Profile Visits
   
   <p align="center" >   
   <img src="https://profile-counter.glitch.me/tharsila/count.svg" />  
