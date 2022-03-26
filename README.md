@@ -1,7 +1,7 @@
 ## Olá, eu sou a Tharsila ✌
 
 - 🔭 Atualmente estou me especializando na stack front-end.
-- 💻 Estudando Javascript.
+- 💻 Estudando Javascript/React.
 
 <div>
   <a href="https://github.com/tharsila">
