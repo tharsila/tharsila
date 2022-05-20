@@ -28,7 +28,7 @@ I am a Telecommunications Engineer graduated from "Estácio” in 2016. At the p
   
   <div>
   <a href ="mailto:tharsilapaula@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href ="https://www.linkedin.com/in/tharsila-borges-ab668276/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href ="https://www.linkedin.com/in/tharsila-borges/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
   ## Profile Visits
