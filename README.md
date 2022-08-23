@@ -2,7 +2,7 @@
 
 I am a Telecommunications Engineer graduated from "Estácio” in 2016. At the present time, I'm a student in Full Stack Web Development at Newtab Academy.
 
-- 🎯 I'm currently learning Javascript/React.
+- 🎯 I'm currently learning TypeScript.
 
 <div>
   <a href="https://github.com/tharsila">
