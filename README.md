@@ -1,6 +1,6 @@
 ## Hey there! I’m Tharsila Borges ✌
 
-I am a Telecommunications Engineer graduated from "Estácio” in 2016. At the present time, I'm a student in Full Stack Web Development at Newtab Academy.
+I am a Telecommunications Engineer graduated from "Estácio” in 2016. At the present time, I'm a Front-end Developer at Voxcity.
 
 - 🎯 I'm currently learning TypeScript and NodeJS.
 
