@@ -1,8 +1,6 @@
 ## Hey there! I’m Tharsila Borges ✌
 
-I am a Telecommunications Engineer graduated from "Estácio” in 2016. At the present time, I'm a Front-end Developer at Voxcity.
-
-- 🎯 I'm currently learning TypeScript and NodeJS.
+I am a Telecommunications Engineer graduated from "Estácio” in 2016. At the present time, I'm a Full Stack Developer at CEA - Artes Eletrônicas.
 
 <div>
   <a href="https://github.com/tharsila">
