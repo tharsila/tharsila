@@ -5,7 +5,7 @@ I am a Telecommunications Engineer graduated from "Estácio” in 2016. At the p
 <div>
   <a href="https://github.com/tharsila">
     
- <img align="center" width ="430px" src="https://github-readme-stats-git-master-tharsilas-projects.vercel.app/api?username=tharsila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img align="center" width ="430px" src="https://github-readme-stats-delta-sandy-87.vercel.app/api?username=tharsila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
          
  <img align="center" width="400px" src="https://github-readme-stats-delta-sandy-87.vercel.app/api/top-langs/?username=tharsila&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
